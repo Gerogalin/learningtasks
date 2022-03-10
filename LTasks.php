@@ -20,7 +20,7 @@
 			<div id="box">
 				<a href="LT2/lt2.php">Learning Task 2</a></div>
 			<div id="box">
-				<a href="index.php">Learning Task 3<a></div>
+				<a href="LT3/lt3.php">Learning Task 3<a></div>
 		</div>
 	</div>
 	<div id="footer"></div>
