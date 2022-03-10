@@ -9,7 +9,7 @@
 		<div><h1 id="name">GEROGALIN<Fname> Jeven</Fname></h1></div>
 		<div id="nav">
 			<ul>
-				<li><a href="index.html">HOME</a></li>
+				<li><a href="index.php">HOME</a></li>
 				<li><a href="">ABOUT</a></li>
 				<li><a href="">CONTACT</a></li>
 			</ul>
