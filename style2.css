@@ -1,0 +1,83 @@
+body{
+	background: url(background.jpg);
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-size:cover ;
+}
+#header{
+	width: auto;
+	min-height: 60px;
+	background-color: rgba(0, 0, 0, 0.5) ;
+	margin: 0 auto;
+}
+#name{
+	position: absolute;
+	padding: 3px;
+	float: left;
+	margin-left: 2%;
+	margin-top: 10px;
+	font-family: sans-serif;
+	color: #ffffff;
+}
+Fname{
+	color: #83150d;
+}
+#nav{
+	width: 40%;
+	height: 55px;
+	float: right;
+}
+#nav ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 10px;
+}
+#nav a{
+	min-width: 40px;
+	padding: 4px;
+	margin: 5px;
+	margin-left: 50px;
+	float: left;
+	font-family: sans-serif;
+	font-size: 20px;
+	text-decoration: none;
+}
+#nav a:link, #nav a:visited{
+	color: white;
+}
+#nav a:hover{
+	color: #83150d;
+}
+
+
+
+
+#tasks{
+	width: 1024px;
+	height: 250px;
+	margin-top: 30px;
+	margin-left: 100px;
+
+}
+#box{
+	width: 200px;
+	height: 50px;
+	padding: 5px;
+	margin: 20px;
+	background-color: rgba(0, 0, 0, 0.5) ;
+}
+#box a{
+	margin: 10px;
+	text-align: center;
+	font-size: 20px;
+	color: white;
+	font-family: sans-serif;
+	padding: 20px;
+	text-decoration: none;
+}
+#box a:link, #box a:visited{
+	color: white;
+}
+#box a:hover{
+	color: #blue;
+}
