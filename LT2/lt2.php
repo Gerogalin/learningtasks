@@ -6,7 +6,7 @@
 <body>
 	<h1>Recipes</h1>
 			<ul>
-				<li><a href="index.php">HOME</a></li>
+				<li><a href="lt2.php">HOME</a></li>
 				<li><a href="Recipe1.php">Salmon in the Oven</a></li>
 				<li><a href="Recipe2.php">Goat Cheese / Beetroot salad</a></li>
 				<li><a href="Recipe3.php">Cucumber Salad</a></li>
