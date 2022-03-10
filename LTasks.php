@@ -18,7 +18,7 @@
 	<div id="content">
 		<div id="tasks">
 			<div id="box">
-				<a href="index.php">Learning Task 2</a></div>
+				<a href="lt2.php">Learning Task 2</a></div>
 			<div id="box">
 				<a href="index.php">Learning Task 3<a></div>
 		</div>
