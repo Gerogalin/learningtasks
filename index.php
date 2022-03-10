@@ -17,7 +17,7 @@
 	</div>
 	<div id="content">
 		<div id="col-one">
-			<div id="box-one"><a href="Ltasks.html"><img src="folder.png" class="img"></a><h1 id="title">Learning Tasks</h1></div>
+			<div id="box-one"><a href="Ltasks.php"><img src="folder.png" class="img"></a><h1 id="title">Learning Tasks</h1></div>
 			<div id="box-two"><img src="folder.png" class="img"><h1 id="title"></h1></div>
 		</div>
 		<div id="col-two">
