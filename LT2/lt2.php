@@ -15,8 +15,5 @@
 				<li><a href="Recipe6.php">Beef in Beer</a></li>
 				<li><a href="Recipe7.php">Thai Green Curry</a></li>
 			</ul>
-	
-<br>
-<a href="learningtasks/LTasks.php">[BACK]</a>
 </body>
 </html>
