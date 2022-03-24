@@ -3,11 +3,13 @@ body{
 	background-repeat: no-repeat;
 	background-position: top center;
 	background-size:cover ;
+	padding: 0;
+	margin: 0;
 }
 #header{
 	width: auto;
 	min-height: 60px;
-	background-color: rgba(0, 0, 0, 0.5) ;
+	background-color: #1d1d1d;
 	margin: 0 auto;
 }
 #name{
@@ -20,7 +22,7 @@ body{
 	color: #ffffff;
 }
 Fname{
-	color: #83150d;
+	color: #ff4516;
 }
 #nav{
 	width: 40%;
@@ -46,38 +48,50 @@ Fname{
 	color: white;
 }
 #nav a:hover{
-	color: #83150d;
+	color: #ff4516;
 }
 
 
 
-
+#content{
+	width: 700px;
+	margin: 30px;
+	padding: 20px;
+	padding-left: 50px;
+	padding-top: 50px;
+	min-height: 400px;
+}
 #tasks{
-	width: 1024px;
-	height: 250px;
-	margin-top: 30px;
-	margin-left: 100px;
-
+	width: 99%;
+	min-height: 500px;	
+}
+#col-one, #col-two{
+	width: 650px;
+	height: 100px;
+	margin: 20px;
+	border-bottom: 1px solid black;
 }
 #box{
-	width: 200px;
-	height: 50px;
-	padding: 5px;
-	margin: 20px;
-	background-color: rgba(0, 0, 0, 0.5) ;
+	width: 112px;
+	height: 30px;
+	border: 1px solid black;
+	float: left;
+	margin: 5px;
+	margin-top: 15px;
+	background-color: rgb(0, 0, 0, 0.3);
+	padding: 20px;
+	padding-left: 70px;
 }
 #box a{
-	margin: 10px;
-	text-align: center;
-	font-size: 20px;
 	color: white;
 	font-family: sans-serif;
-	padding: 20px;
+	font-size: 25px;
 	text-decoration: none;
 }
 #box a:link, #box a:visited{
 	color: white;
 }
 #box a:hover{
-	color: #blue;
+	color: black;
+	font-size: 25px;
 }
