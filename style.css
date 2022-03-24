@@ -3,11 +3,13 @@ body{
 	background-repeat: no-repeat;
 	background-position: top center;
 	background-size:cover ;
+	padding: 0;
+	margin: 0;
 }
 #header{
 	width: auto;
 	min-height: 60px;
-	background-color: rgba(0, 0, 0, 0.5) ;
+	background-color: #1d1d1d;
 	margin: 0 auto;
 }
 #name{
@@ -20,7 +22,7 @@ body{
 	color: #ffffff;
 }
 Fname{
-	color: #83150d;
+	color: #ff4516;
 }
 #nav{
 	width: 40%;
@@ -46,49 +48,55 @@ Fname{
 	color: white;
 }
 #nav a:hover{
-	color: #83150d;
+	color: #ff4516;
 }
 
 
 
-
-#col-one{
-	width: 1024px;
-	height: 250px;
-	margin-top: 30px;
-	margin-left: 100px;
-
+#content{
+	width: 500px;
+	margin: 30px;
+	padding: 20px;
+	padding-left: 100px;
+	padding-top: 50px;
+	min-height: 400px;
 }
-#box-one, #box-two{
-	width: 200px;
-	height: 200px;
-	padding: 5px;
-	margin: 20px;
+#col{
+	width: 400px;
+	height: 70px;
+	margin-bottom: 50px;
+	color: black;
+	background-color: rgb(0, 0, 0, 0.2);
+	border: 1px solid black;
+}
+#pokeball{
+	width: 70px;
+	height: 70px;
 	float: left;
-	background-color: rgba(0, 0, 0, 0.5) ;
-}
-#col-two{
-	width: 1024px;
-	height: 250px;
-	margin-top: 0px;
-	margin-left: 100px;
-}
-#box-three, #box-four{
-	width: 200px;
-	height: 200px;
-	padding: 5px;
-	margin: 20px;
-	float: left;
-	background-color: rgba(0, 0, 0, 0.5) ;
-}
-.img{
-	height: 140px;
-	width: auto;
+
 }
 #title{
-	margin: 0;
-	text-align: center;
-	font-size: 15px;
+	width: 320px;
+	height: 50px;
+	float: left;
+	padding-top: 20px;
+}
+#title a:link, #title a:visited{
+	color: white;
+}
+#title a:hover{
+	color: black;
+}
+img{
+	width: 50px;
+	height: 50px;
+	padding-left: 20PX;
+	padding-top: 10PX;
+}
+#title a{
+	margin: 50px;
 	color: white;
 	font-family: sans-serif;
+	font-size: 20px;
+	text-decoration: none;
 }
