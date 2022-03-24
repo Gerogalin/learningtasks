@@ -16,13 +16,17 @@
 		</div>
 	</div>
 	<div id="content">
-		<div id="col-one">
-			<div id="box-one"><a href="LTasks.php"><img src="folder.png" class="img"></a><h1 id="title">Learning Tasks</h1></div>
-			<div id="box-two"><img src="folder.png" class="img"><h1 id="title"></h1></div>
+		<div id="col">
+			<div id="pokeball"><img src="pokeball.png" class="img"></div>
+			<div id="title"><a href="LTasks.php">LEARNING TASKS</a></div>
 		</div>
-		<div id="col-two">
-			<div id="box-three"><img src="folder.png" class="img"><h1 id="title"></h1></div>
-			<div id="box-four"><img src="folder.png" class="img"><h1 id="title"></h1></div>
+		<div id="col">
+			<div id="pokeball"><img src="pokeball.png" class="img"></div>
+			<div id="title"><a href=""></a></div>
+		</div>
+		<div id="col">
+			<div id="pokeball"><img src="pokeball.png" class="img"></div>
+			<div id="title"><a href=""></a></div>
 		</div>
 	</div>
 	<div id="footer"></div>
