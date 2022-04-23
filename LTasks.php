@@ -28,6 +28,8 @@
 				<div id="col-two">
 				<div id="box">
 					<a href="LT4/index.php">LT4</a></div>
+				<div id="box">
+					<a href="LT5/index.php">LT5</a></div>
 			</div>
 
 		</div>
