@@ -1,0 +1,139 @@
+body{
+	background: url(img/background.jpg);
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-size:cover ;
+	padding: 0;
+	margin: 0;
+	background-attachment: fixed;
+}
+#whosthat{
+	width: 100%;
+	height: 175px;
+}
+#main{
+	width: 500px;
+	height: 150	px;
+	padding-left: 340px;
+	padding-top: 5px;
+	float: left;
+}
+#song{
+	width: 75px;
+	height: 75px;
+	margin-left: 75px;
+	padding-top: 30px;
+	float: left;
+	padding-right: 10px;
+}
+h2{
+	padding-top: 50px;
+	font-size: 20px;
+	color: white;
+	font-family: 'Kanit', sans-serif;
+}
+#oop{
+	height: 75px;
+	height: 75px;
+}
+#oop:hover{
+	 	height: 79px;
+	height: 79px;
+}
+#head{
+	width: 400px;
+	height: 170px;
+	padding: 10px;
+}
+#pkmn{
+	width: 1000px;
+	margin: 10px;
+	margin-top: 0px;
+	margin-left: 40px;
+	padding: 20px;
+	padding-left: 10px;
+	padding-top: 10px;
+	min-height: 550px;
+}
+#buttons{
+	margin-top: 20px;
+}
+#button1{
+	border: 5px solid #396ab0;
+	height: 40px;
+	width: 120px;
+	padding: 0px;
+	padding-top: 0px;
+	margin-left: 60px;
+	margin-right: 240px;
+	float: left;
+	background: #ffcb05;
+	border-radius: 90px;
+	box-shadow: -3px 3px #0e558e;
+}
+#button2{
+	border: 5px solid #396ab0;
+	height: 40px;
+	width: 120px;
+	padding: 0px;
+	margin: 0px;
+	float: left;
+	margin-left: 130px;
+	background: #ffcb05;
+	border-radius: 90px;
+	box-shadow: -3px 3px #0e558e;
+}
+h1:hover{
+	color: white;
+}
+h1{
+	font-size: 26px;
+	color: #396ab0;
+	margin: 0px;
+	text-align: center;
+	font-family: 'Kanit', sans-serif;
+	user-select: none;
+}
+#col1{
+	width: 100%;
+	height: 500px;
+}
+#col2{
+	width: 100%;
+	height: 500px;
+}
+#row1{
+	width: 475px;
+	height: 475px;
+	margin: 10px;
+	float: left;
+	padding-top: 0px;
+}
+#row2{
+	width: 475px;
+	height: 475px;
+	margin: 10px;
+	float: left;
+	padding-top: 0px;
+}
+#blue{
+	width: 450px;
+	height: 450px;
+	position: absolute;
+}
+#silbox{
+	width: 300px;
+	height: 300px;
+	margin: 70px;
+	position: absolute;
+}
+#sil1, #sil2, #sil3, #sil4, #sil5, #sil6{
+	width: 250px;
+	height: 250px;
+	position: absolute;
+}
+#ans1, #ans2, #ans3, #ans4, #ans5, #ans6{
+	width: 250px;
+	height: 250px;
+	position: absolute;
+}
