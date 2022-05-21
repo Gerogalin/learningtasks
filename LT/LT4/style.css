@@ -1,0 +1,53 @@
+body{
+ 	background-image: url("background.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-attachment: fixed;
+}
+#wrapper{
+	width: 600px;
+	height: 1150px;
+	margin: auto;
+	background-color: rgb(0, 0, 0,0.2);
+}
+#title{
+	width: 500px;
+	margin: auto ;
+	height: 80px;
+	padding: 15px;
+	text-align: center;
+}
+#logo{
+	float: left;
+	width: 60px;
+	height: 60px;
+	margin-top: 15px;
+}
+#pokemon{
+	float: left;
+	width: 350px;
+	height: 90px;
+}
+h1{
+	color:  yellow;
+	font-family: 'Bebas Neue', cursive;
+	font-size: 40px;
+	text-shadow: 2px 2px white;
+}
+img{
+	width: 60px;
+	height: auto;
+}
+#body{
+	width: 450px;
+	margin: auto;
+	padding: 15px ;
+	padding-left: 100px;
+}
+#tm{
+	font-size: 15px;
+	color: white;
+	padding-bottom: 10px;
+	font-family: 'Red Hat Mono', monospace;
+}
